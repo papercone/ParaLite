@@ -1,0 +1,12 @@
+[project]
+name = "paralite"
+version = "0.1.0"
+description = "Print text with the Mojangles font onto a plane as a Minecraft .litematic projection"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "litemapy>=0.11.0b0",
+    "fonttools>=4.0",
+    "numpy>=1.26",
+    "pillow>=10.0",
+]
