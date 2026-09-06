@@ -1,0 +1,8 @@
+A froglight is a light-emitting block that is obtained when 
+a frog eats a tiny magma cube. 
+
+It comes in three variants based on the variant of frog that eats the magma cube.
+
+Froglights drop as an item when broken with any tool or by hand. 
+Breaking speed is always the same; 
+no specific tool can break a froglight faster.
